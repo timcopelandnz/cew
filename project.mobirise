@@ -29,7 +29,7 @@
       },
       "additionalSetColors": []
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ceicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.2.5",
     "uniqCompNum": 28,
